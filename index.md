@@ -1,5 +1,5 @@
-<div class="tip" markdown="1"># About Myself
 
+<div markdown="1">
 I am a 14yo student from the Netherlands.
 
 My hobbies include:
